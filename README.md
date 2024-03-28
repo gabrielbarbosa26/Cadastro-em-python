@@ -1,11 +1,18 @@
 # O Sistema de Cadastro em Python 
 
 é um Sistema simples desenvolvido para permitir o cadastro de usuários, armazenando informações básicas, como :
-1 nome 
-2 e-mail
-3 cpf
-4 endereço
-5 telefone
+
+1 nome
+
+2  e-mail
+
+3  cpf
+
+4  endereço
+
+5  telefone
+
+
   entre outros dados necessarios para completar m cadastro... 
   
   
